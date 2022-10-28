@@ -2,6 +2,9 @@ import React, { useImperativeHandle } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
+//https://reactjs.org/tutorial/tutorial.html
+//stopped on When a Square is clicked, the onClick function provided by the
+
 class Square extends React.Component {
     render() {
       return (
